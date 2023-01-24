@@ -1,0 +1,5 @@
+tqdm
+pm4py==2.5.0
+gensim==4.1.0
+karateclub==1.2.0
+seaborn==0.11.2
